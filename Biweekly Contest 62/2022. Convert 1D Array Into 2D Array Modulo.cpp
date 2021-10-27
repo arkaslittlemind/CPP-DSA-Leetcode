@@ -1,8 +1,6 @@
-Question Link- https://leetcode.com/contest/biweekly-contest-62/problems/convert-1d-array-into-2d-array/
+[Question Link](https://leetcode.com/contest/biweekly-contest-62/problems/convert-1d-array-into-2d-array/)
 
 //Modulo Approach//
-
-
 
 
 class Solution {
