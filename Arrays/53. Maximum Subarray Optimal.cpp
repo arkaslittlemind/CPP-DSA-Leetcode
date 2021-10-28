@@ -1,6 +1,6 @@
 Question Link- https://leetcode.com/problems/maximum-subarray/
 
-// Using Kadane's Algorithm//
+// Using Kadane's Algorithm(Divide & Conquer) //
 
 class Solution {
 public:
