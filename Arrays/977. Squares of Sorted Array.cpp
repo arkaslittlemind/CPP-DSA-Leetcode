@@ -1,4 +1,4 @@
-Question Link- https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/
+[Question Link](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
 
 //Brute Force Approach//
 
