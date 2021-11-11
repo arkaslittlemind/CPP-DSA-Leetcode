@@ -9,7 +9,7 @@ class Solution {
     }
 public:
     int countVowelSubstrings(string word) {
-    int cnt=0;
+    int count=0;
         int n= word.size();
         
         for(int i=0; i<n; i++){
@@ -20,6 +20,6 @@ public:
                 if(st.size() == 5) cnt++;
             }
         }
-        return cnt;
+        return count;
     }
 };
