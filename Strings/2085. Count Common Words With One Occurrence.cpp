@@ -1,6 +1,6 @@
 Question Link- https://leetcode.com/contest/biweekly-contest-66/problems/count-common-words-with-one-occurrence/
 
-//Brute Force using Two Maps//
+//Brute Force using Two Hash Maps//
 
 class Solution {
 public:
