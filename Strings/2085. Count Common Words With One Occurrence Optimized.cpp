@@ -8,7 +8,7 @@ public:
         map<string, int> mp1;
         for(auto &it: words1) mp1[it]++;
         for(auto &it: words2){
-            if(mp1[it] < 2){
+            if(mp1[it] <= 1){
                 mp1[it]--;
             }
         } 
