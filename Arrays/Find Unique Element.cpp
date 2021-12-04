@@ -1,6 +1,6 @@
 Question Link- https://www.codingninjas.com/codestudio/problems/find-unique_625159?leftPanelTab=0
 
-//Brute Force Approach//
+//Brute Force Approach using XOR property//
 
 int findUnique(int *arr, int size)
 {
