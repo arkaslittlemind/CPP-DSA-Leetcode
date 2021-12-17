@@ -1,5 +1,7 @@
 Question Link- https://leetcode.com/problems/valid-palindrome/
 
+// Using Two Pointers //
+
 class Solution {
 private:
     bool valid(char ch) {
