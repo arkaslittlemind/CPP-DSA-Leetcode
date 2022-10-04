@@ -4,7 +4,7 @@ Question Link- https://leetcode.com/problems/design-hashset/
 
 class MyHashSet {
 public:
-    vector <int> m;
+    vector <bool> m;
     int size;
     MyHashSet() {
         size = 1e6 + 1;
