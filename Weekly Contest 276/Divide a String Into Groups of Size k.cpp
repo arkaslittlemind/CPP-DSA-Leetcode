@@ -1,4 +1,6 @@
 Question Link- https://leetcode.com/contest/weekly-contest-276/problems/divide-a-string-into-groups-of-size-k/
+Vector approach
+
 
 class Solution {
 public:
