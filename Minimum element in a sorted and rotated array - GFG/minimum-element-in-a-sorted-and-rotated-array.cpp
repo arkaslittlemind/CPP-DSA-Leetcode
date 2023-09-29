@@ -13,7 +13,7 @@ public:
         while(low <= high) {
             int mid = low + ((high - low) / 2);
             
-            if(arr[low] <= arr[high]) {
+            if(arr[low] <= arr[high]) { //search space is already sorted
                 minElement = min(minElement, arr[low]);
                 break;
             }
